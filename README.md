@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou desenvolvedor full-stack, amo jogos, tive o prazer de participar, sendo o meu primeiro [hackton](https://www.instagram.com/p/C0Zx7-LpU4D/).
+Sou desenvolvedor de Software, amo jogos, tive o prazer de participar, sendo o meu primeiro [hackton](https://www.instagram.com/p/C0Zx7-LpU4D/).
 
 - 👨‍🎓 Aprendendo algo sobre full-stack
 
