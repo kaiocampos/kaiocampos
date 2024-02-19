@@ -9,7 +9,7 @@
 
 Sou desenvolvedor de Software, amo jogos, tive o prazer de participar, sendo o meu primeiro [hackton](https://www.instagram.com/p/C0Zx7-LpU4D/).
 
-- 👨‍🎓 Aprendendo algo sobre full-stack
+- 👨‍🎓 Aprendendo algo sobre backend java
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
