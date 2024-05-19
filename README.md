@@ -1,6 +1,7 @@
-<img src = "banner.gif" width = "325px" align = "right" margin-top="30px">
+
 
 # Olá, bom ter você por aqui!
+<img src = "banner.gif" width = "325px" align = "right" margin-top="30px">
 <div id="badges">
   <a href = "https://www.linkedin.com/in/kaio-campos-744419194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
