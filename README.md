@@ -33,9 +33,9 @@
 <!-- Portfolio -->
 ## Portfolio:
 
-- Selecionar uns portifólios
+- [École 42](https://github.com/kaiocampos/42)
+
 <!--
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
