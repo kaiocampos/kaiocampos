@@ -34,13 +34,8 @@
 ## Portfolio:
 
 - [École 42](https://github.com/kaiocampos/42)
+- [JavaScript](https://github.com/kaiocampos/JavaScript)
 
-<!--
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
--->
 
 <!-- GIF -->
 <p align="left">
