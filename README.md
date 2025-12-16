@@ -32,13 +32,6 @@ Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiocampos&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocampos&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-Kaio%20Campos-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaio-campos)  
 📧 **kaio.campos@outlook.com**
