@@ -1,9 +1,9 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
 Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-📍 **2º semestre – FATEC Santana de Parnaíba**
+📍 **3º semestre – FATEC Santana de Parnaíba**
 
-💻 Atualmente estudo **Linguagem C e Java**, com foco em **lógica de programação**, **funções**, **vetores**, **matrizes** e introdução à **recursividade**.
+💡 Foco Atual: Consolido meus fundamentos em C e Java, com ênfase na construção de uma lógica de programação robusta e no domínio de estruturas de dados. Acredito que uma base sólida é o diferencial para entregar softwares de alta qualidade e performance.
 
 ---
 
@@ -20,7 +20,7 @@ Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)
 - **Java** (em aprendizado)
 - **Git e GitHub**
 - **Dev-C++** (utilizado nos estudos em C)
-- **VS Code**
+- **IntelliJ** (utilizado nos estudos em Java)
 
 ---
 
