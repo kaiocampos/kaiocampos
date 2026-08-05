@@ -1,14 +1,14 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
 Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-📍 **3º semestre – FATEC Santana de Parnaíba**
+📍 **4º semestre – FATEC Santana de Parnaíba**
 
 💡 Foco Atual: Consolido meus fundamentos em C e Java, com ênfase na construção de uma lógica de programação robusta e no domínio de estruturas de dados. Acredito que uma base sólida é o diferencial para entregar softwares de alta qualidade e performance.
 
 ---
 
 ## 🚀 Sobre mim
-- 🎯 Objetivo: Conquistar meu **primeiro estágio em TI**
+- 🎯 Objetivo: Desenvolver minhas habilidades na área de tecnologia.
 - 📚 Interesses: Desenvolvimento de Software, Estruturas de Dados e Infraestrutura
 - 🧠 Perfil: Aprendizado contínuo, prática constante e organização de código
 - 🤝 Aberto a colaborar em projetos acadêmicos e iniciativas open source
